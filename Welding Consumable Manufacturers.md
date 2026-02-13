@@ -59,8 +59,7 @@
 * Elga Welding	−	https://elgawelding.com/products/
 
 ## Switzerland
-* Novametal	−	https://novametalgroup.com/		[!!]
-* OerlikonSchweißtechnik	−	https://www.iso-oerlikon.ch/alle-produkte 		[!!]
+* Novametal	−	https://novametalgroup.com/welding-wire/
 * Oerlikon Metco	−	https://www.oerlikon.com/metco/en/products-services/
 
 ## Turkey
@@ -68,7 +67,7 @@
 * Duweld	−	https://www.duweld.com/duweld-telleri/duw-sg2/1
 * Gedik Welding	−	https://gedik.com.tr/en/welding
 * Magmaweld	−	https://www.magmaweld.com/welding-consumables-e-20
-* Orweld	−	https://www.orweld.com.tr/		[!!]
+* Orweld	−	https://www.orweld.com.tr/en/products/
 * Panzercrom	−	https://www.panzercrom.com/en/home
 
 ## United Kingdom (UK)
