@@ -4,6 +4,9 @@
 * Longteng Special Steel	−	https://www.longtengspecialsteel.com/products.html
 * too many	−	
 
+## Czech Republic
+* KOWAX	−	https://www.kowax.cz/en/welding-wires-and-electrodes/
+
 ## France
 * Selectarc	−	https://selectarc.com/en/home/
 * Technogenia	−	https://www.technogenia.com/en/products/
@@ -19,10 +22,12 @@
 * Deutsche Nickel	−	https://www.deutsche-nickel.de/en/products/wire/welding-consumables
 * Dratec	−	https://dratec.de/?lang=en
 * Durum	−	https://durmat.com/en/products/
+* EWM	−	https://www.ewm-group.com/en/products/welding-consumables.html
 * Fliess	−	https://www.fliess.com/en/products/
 * Kjellberg	−	https://www.kjellberg.de/welding.html
 * Migal Co 	−	https://www.migal.co/en/products
 * MTC	−	https://www.mtc-meerbusch.com/english/product-range/
+* VDM Metals	−	https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/welding-consumables
 * voestalpine	−	https://www.voestalpine.com/welding/global-en/products/consumables/
 
 ## India
