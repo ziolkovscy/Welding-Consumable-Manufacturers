@@ -36,6 +36,7 @@
 * Venus	−	https://www.venuswires.com/products/
 
 ## Italy
+* Daiko	−	https://daikowelding.com/en/products
 * Italfil	−	https://italfil.com/en/products/
 * Pittarc	−	https://www.pittarc.com/en/products/
 * Rodacciai	−	https://www.rodacciai.com/prodotti-welding.php
