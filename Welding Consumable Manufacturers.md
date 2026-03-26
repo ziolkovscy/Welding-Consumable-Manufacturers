@@ -15,6 +15,7 @@
 ## Germany
 * Bavaria Schweisstechnik	−	https://www.subarcflux.com/en/products.html
 * Berkenhoff (bedra) −  https://www.bedra.com/europe/products/
+* C & M Technologies	−	http://cms3.c-m-tech.com/portfolio_en/
 * Capilla	−	https://www.capilla-gmbh.com/products/
 * Castolin Eutectic	−	https://www.castolin.com/products-finder
 * Corodur Fülldraht	−	https://www.corodur.de/en/products
@@ -49,6 +50,7 @@
 ## Poland
 * MetalWeld	−	https://www.metalweld.pl/en/products
 * Metalurgia	−	https://www.metalurgia.pl/en/
+* Multimet	−	https://multimet.com.pl/produkty/     
 * StarWeld	−	http://www.r-line.pl/starweld
 * TysWeld	−	https://tysweld.com/en/offer/
 
@@ -58,8 +60,11 @@
 
 ## Sweden
 * Elga Welding	−	https://elgawelding.com/products/
+* Höganäs	−	https://www.hoganas.com/en/powder-technologies
+* Meltolit	−	https://meltolit.com/product/ 
 
 ## Switzerland
+* CoWeld Group	−	https://coweld.swiss/c/produkte/zusatzwerkstoffe
 * Novametal	−	https://novametalgroup.com/welding-wire/
 * Oerlikon Metco	−	https://www.oerlikon.com/metco/en/products-services/
 
@@ -73,11 +78,13 @@
 
 ## United Kingdom (UK)
 * Corewire	−	https://www.corewire.com/products/
+* VBC Group	−	https://www.vbcgroup.com/welding-products/
 
 ## United States of America (USA)
 * ESAB	−	https://esab.com/us/nam_en/
 * Haynes	−	https://haynesintl.com/en/alloys/product-forms/wire-and-welding
 * Kennametal	−	https://www.kennametal.com/us/en/products.html
 * Kobelco	−	https://www.kobelcowelding.com/welding-consumables/
-* LucasMilhaupt	−	https://www.lucasmilhaupt.com/Products
 * Lincoln Electric	−	https://www.lincolnelectric.com/en/
+* LucasMilhaupt	−	https://www.lucasmilhaupt.com/Products
+* Prince & Izant	−	https://princeizant.com/product-forms
