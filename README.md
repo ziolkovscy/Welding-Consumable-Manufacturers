@@ -10,7 +10,7 @@ Collecting, systematizing and facilitating the search for producers of welding c
 Contributions, issues and feature requests are welcome.
 
 ## Author
-__Przemysław Ziółkowski__
+Przemysław Ziółkowski
 Mail: ziolkovscy@gmail.com
 
 ## License
