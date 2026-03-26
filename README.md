@@ -5,10 +5,10 @@ A simple list of manufacturers of welding, brazing, overlaying and thermal spray
 
 ## Author
 Przemysław Ziółkowski
-* mail: ziolkovscy@gmail.com(ziolkovscy@gmail.com) 
+* mail: ziolkovscy@gmail.com
 
 ## Features
 Collecting, systematizing and facilitating the search for producers of welding consumables.
 
 ## License
-This project is ___ licensed.
+This project is [GNU GPL](https://github.com/ziolkovscy/Welding-Consumable-Manufacturers/blob/main/LICENSE) licensed.
