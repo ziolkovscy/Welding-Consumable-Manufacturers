@@ -1,13 +1,14 @@
 # Welding Consumable Manufacturers
 
-## General
-A simple list of manufacturers of welding and brazing consumables. Each manufacturer's name is accompanied by a website address.
+## What is Welding Consumable Manufacturers
+A simple list of manufacturers of welding, brazing, overlaying and thermal spraying consumables. Each manufacturer's name is accompanied by a website address.
 
-## Technology
-MarkDown
+## Author
+Przemysław Ziółkowski
+* mail: ziolkovscy@gmail.com(ziolkovscy@gmail.com) 
 
 ## Features
 Collecting, systematizing and facilitating the search for producers of welding consumables.
 
-## Status
-Under development.
+## License
+This project is ___ licensed.
