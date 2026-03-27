@@ -21,6 +21,7 @@
 * Corodur Fülldraht	−	https://www.corodur.de/en/products
 * Corodur Thale	−	https://www.corodur-thale.de/en/
 * Deutsche Nickel	−	https://www.deutsche-nickel.de/en/products/wire/welding-consumables
+* Deloro Wear Solutions	−	https://deloro.com/en/welding-materials-product-finder/
 * Dratec	−	https://dratec.de/?lang=en
 * Durum	−	https://durmat.com/en/products/
 * EWM	−	https://www.ewm-group.com/en/products/welding-consumables.html
