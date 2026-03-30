@@ -34,6 +34,7 @@
 
 ## India
 * Anand Arc	−	https://www.anandarc.co.in/products.html
+* Saru Silver Alloy Private Limited	−	https://www.sarusilver.com/product-range.html
 * Superon	−	https://www.superoncorp.com/
 * Venus	−	https://www.venuswires.com/products/
 
@@ -49,6 +50,7 @@
 * Kobelco	−	https://www.kobelco-welding.jp/
 
 ## Poland
+* LUT-SPAW	−	https://lut-spaw.com.pl/materialy-lutownicze/
 * MetalWeld	−	https://www.metalweld.pl/en/products
 * Metalurgia	−	https://www.metalurgia.pl/en/
 * Multimet	−	https://multimet.com.pl/produkty/     
