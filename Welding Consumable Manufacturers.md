@@ -5,7 +5,7 @@
 * too many	−	
 
 ## Czech Republic
-* KOWAX	−	https://www.kowax.cz/en/welding-wires-and-electrodes/
+* Kowax	−	https://www.kowax.cz/en/welding-wires-and-electrodes/
 
 ## France
 * Selectarc	−	https://selectarc.com/en/home/
@@ -15,7 +15,7 @@
 ## Germany
 * Bavaria Schweisstechnik	−	https://www.subarcflux.com/en/products.html
 * Berkenhoff (bedra) −  https://www.bedra.com/europe/products/
-* C & M Technologies	−	http://cms3.c-m-tech.com/portfolio_en/
+* C&M Technologies	−	http://cms3.c-m-tech.com/portfolio_en/
 * Capilla	−	https://www.capilla-gmbh.com/products/
 * Castolin Eutectic	−	https://www.castolin.com/products-finder
 * Corodur Fülldraht	−	https://www.corodur.de/en/products
@@ -41,19 +41,20 @@
 ## Italy
 * Daiko	−	https://daikowelding.com/en/products
 * Italfil	−	https://italfil.com/en/products/
-* LINBRAZE S.R.L.	−	https://www.linbraze.com/products.html
+* Linbraze s.r.l.	−	https://www.linbraze.com/products.html
 * Pittarc	−	https://www.pittarc.com/en/products/
 * Rodacciai	−	https://www.rodacciai.com/prodotti-welding.php
 * Safra	−	https://www.safraspa.it/en/products/
 * Trader	−	https://www.tradetools.com/welding-equipment/welding-consumables
 
 ## Japan
-* ISHIFUKU Metal Industry	−	https://www.ishifuku-kinzoku.co.jp/english/products/industrial-medical/
-* KINZOKU YOUZAI	−	https://kinzokuyouzai.co.jp/en/
+* Ishifuku Metal Industry	−	https://www.ishifuku-kinzoku.co.jp/english/products/industrial-medical/
+* Kinzoku Youzai	−	https://kinzokuyouzai.co.jp/en/
 * Kobelco	−	https://www.kobelco-welding.jp/
 
 ## Poland
-* LUT-SPAW	−	https://lut-spaw.com.pl/materialy-lutownicze/
+* Bendam	−	https://bendam.pl/katalogi-bendam/
+* Lut-Spaw	−	https://lut-spaw.com.pl/materialy-lutownicze/
 * MetalWeld	−	https://www.metalweld.pl/en/products
 * Metalurgia	−	https://www.metalurgia.pl/en/
 * Multimet	−	https://multimet.com.pl/produkty/     
@@ -70,6 +71,7 @@
 * Meltolit	−	https://meltolit.com/product/ 
 
 ## Switzerland
+* Clerici Engineering	−	https://www.clerici-engineering.ch/
 * CoWeld Group	−	https://coweld.swiss/c/produkte/zusatzwerkstoffe
 * Novametal	−	https://novametalgroup.com/welding-wire/
 * Oerlikon Metco	−	https://www.oerlikon.com/metco/en/products-services/
