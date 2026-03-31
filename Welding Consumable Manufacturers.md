@@ -41,12 +41,15 @@
 ## Italy
 * Daiko	−	https://daikowelding.com/en/products
 * Italfil	−	https://italfil.com/en/products/
+* LINBRAZE S.R.L.	−	https://www.linbraze.com/products.html
 * Pittarc	−	https://www.pittarc.com/en/products/
 * Rodacciai	−	https://www.rodacciai.com/prodotti-welding.php
 * Safra	−	https://www.safraspa.it/en/products/
 * Trader	−	https://www.tradetools.com/welding-equipment/welding-consumables
 
 ## Japan
+* ISHIFUKU Metal Industry	−	https://www.ishifuku-kinzoku.co.jp/english/products/industrial-medical/
+* KINZOKU YOUZAI	−	https://kinzokuyouzai.co.jp/en/
 * Kobelco	−	https://www.kobelco-welding.jp/
 
 ## Poland
