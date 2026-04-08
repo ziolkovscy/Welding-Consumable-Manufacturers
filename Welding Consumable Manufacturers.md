@@ -27,10 +27,11 @@
 * EWM	−	https://www.ewm-group.com/en/products/welding-consumables.html
 * Fliess	−	https://www.fliess.com/en/products/
 * Kjellberg	−	https://www.kjellberg.de/welding.html
-* Migal Co 	−	https://www.migal.co/en/products
+* Migal.Co 	−	https://www.migal.co/en/products
 * MTC	−	https://www.mtc-meerbusch.com/english/product-range/
 * VDM Metals	−	https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/welding-consumables
 * voestalpine	−	https://www.voestalpine.com/welding/global-en/products/consumables/
+* WDI	−	https://www.wdi.de/en/products/welding-technology
 
 ## India
 * Anand Arc	−	https://www.anandarc.co.in/products.html
@@ -96,3 +97,4 @@
 * Lincoln Electric	−	https://www.lincolnelectric.com/en/
 * LucasMilhaupt	−	https://www.lucasmilhaupt.com/Products
 * Prince & Izant	−	https://princeizant.com/product-forms
+* Wall Colmonoy	−	https://www.wallcolmonoy.com/products-capabilities/
