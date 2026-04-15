@@ -1,6 +1,7 @@
 # Welding Consumable Manufacturers
 
 ## China
+* Guangzhou Zhenhu Welding Consumables	−	https://www.zhenhuwelding.com/en/col.jsp?id=103
 * Longteng Special Steel	−	https://www.longtengspecialsteel.com/products.html
 * too many	−	
 
@@ -10,6 +11,7 @@
 ## France
 * Selectarc	−	https://selectarc.com/en/home/
 * Technogenia	−	https://www.technogenia.com/en/products/
+* Umicore	−	https://www.umicore-brasage.fr/
 * Welding Alloys	−	https://www.welding-alloys.com/product-category/welding-consumables/
 
 ## Germany
@@ -42,10 +44,11 @@
 ## Italy
 * Daiko	−	https://daikowelding.com/en/products
 * Italfil	−	https://italfil.com/en/products/
-* Linbraze s.r.l.	−	https://www.linbraze.com/products.html
+* Linbraze	−	https://www.linbraze.com/products.html
 * Pittarc	−	https://www.pittarc.com/en/products/
 * Rodacciai	−	https://www.rodacciai.com/prodotti-welding.php
 * Safra	−	https://www.safraspa.it/en/products/
+* Saldobrase	−	https://www.saldobrase.com/en/products/
 * Trader	−	https://www.tradetools.com/welding-equipment/welding-consumables
 
 ## Japan
@@ -90,6 +93,12 @@
 * VBC Group	−	https://www.vbcgroup.com/welding-products/
 
 ## United States of America (USA)
+* Aimtek	−	https://aimtek.com/technical-data-sheets/
+* Alexy Metals	−	https://www.brazing.com/](https://alexymetals.com/products/
+* Ametek Aegis	−	https://www.ametekaegis.com/products
+* Ametek Coining	−	https://www.ametek-coining.com/products
+* Aufhauser	−	https://www.brazing.com/
+* CEAC (Connecticut Engineering Associates Corporation)	−	http://www.ceacpowders.com/applications.htm
 * ESAB	−	https://esab.com/us/nam_en/
 * Haynes	−	https://haynesintl.com/en/alloys/product-forms/wire-and-welding
 * Kennametal	−	https://www.kennametal.com/us/en/products.html
