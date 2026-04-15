@@ -33,7 +33,7 @@
 * MTC	−	https://www.mtc-meerbusch.com/english/product-range/
 * VDM Metals	−	https://www.vdm-metals.com/en/products-and-services/alloys-and-semi-finished-products/welding-consumables
 * voestalpine	−	https://www.voestalpine.com/welding/global-en/products/consumables/
-* WDI	−	https://www.wdi.de/en/products/welding-technology
+* WDI (Westfälische Drahtindustri)	−	https://www.wdi.de/en/products/welding-technology
 
 ## India
 * Anand Arc	−	https://www.anandarc.co.in/products.html
