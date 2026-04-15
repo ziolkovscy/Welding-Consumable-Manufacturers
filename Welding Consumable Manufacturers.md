@@ -99,7 +99,7 @@
 * Ametek Coining	−	https://www.ametek-coining.com/products
 * Aufhauser	−	https://www.brazing.com/
 * CEAC (Connecticut Engineering Associates Corporation)	−	http://www.ceacpowders.com/applications.htm
-* ESAB	−	https://esab.com/us/nam_en/
+* ESAB (Elektriska Svetsnings-Aktiebolaget)	−	https://esab.com/us/nam_en/
 * Haynes	−	https://haynesintl.com/en/alloys/product-forms/wire-and-welding
 * Kennametal	−	https://www.kennametal.com/us/en/products.html
 * Kobelco	−	https://www.kobelcowelding.com/welding-consumables/
