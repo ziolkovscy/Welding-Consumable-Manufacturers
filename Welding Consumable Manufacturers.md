@@ -3,6 +3,7 @@
 ## China
 * Guangzhou Zhenhu Welding Consumables	−	https://www.zhenhuwelding.com/en/col.jsp?id=103
 * Longteng Special Steel	−	https://www.longtengspecialsteel.com/products.html
+* Luoyang Golden Egret Geotools	−	https://www.xtc-thermalspray.com/products.html
 * too many	−	
 
 ## Czech Republic
@@ -67,6 +68,9 @@
 * Multimet	−	https://multimet.com.pl/produkty/     
 * StarWeld	−	http://www.r-line.pl/starweld
 * TysWeld	−	https://tysweld.com/en/offer/
+
+## Singapore
+* Dura-Metal	−	https://durametal-alloy.com/products/
 
 ## South Korea
 * Hyundai	−	https://products.hyundaiwelding.com/
