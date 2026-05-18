@@ -97,6 +97,7 @@
 
 ## United Kingdom (UK)
 * Corewire	−	https://www.corewire.com/products/
+* Fusion	−	https://fusion-europe.com/
 * VBC Group	−	https://www.vbcgroup.com/welding-products/
 
 ## United States of America (USA)
