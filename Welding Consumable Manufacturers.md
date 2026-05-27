@@ -109,6 +109,7 @@
 * CEAC (Connecticut Engineering Associates Corporation)	−	http://www.ceacpowders.com/applications.htm
 * ESAB (Elektriska Svetsnings-Aktiebolaget)	−	https://esab.com/us/nam_en/
 * Haynes	−	https://haynesintl.com/en/alloys/product-forms/wire-and-welding
+* Hobart Brothers	−	https://www.hobartbrothers.com/products/
 * Kennametal	−	https://www.kennametal.com/us/en/products.html
 * Kobelco	−	https://www.kobelcowelding.com/welding-consumables/
 * Lincoln Electric	−	https://www.lincolnelectric.com/en/
