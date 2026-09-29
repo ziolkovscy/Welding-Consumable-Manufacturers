@@ -62,6 +62,7 @@
 
 ## Poland
 * Bendam	−	https://bendam.pl/katalogi-bendam/
+* CoWeld	−	https://coweld.odoo.com/
 * Lut-Spaw	−	https://lut-spaw.com.pl/materialy-lutownicze/
 * MetalWeld	−	https://www.metalweld.pl/en/products
 * Metalurgia	−	https://www.metalurgia.pl/en/
